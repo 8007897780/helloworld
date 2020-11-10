@@ -6,10 +6,17 @@
 	<artifactId>helloworld</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
+<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+	<!-- https://mvnrepository.com/artifact/org.apache.maven/maven-plugin-api -->
+	<!-- https://mvnrepository.com/artifact/org.apache.maven/maven-plugin-api -->
+	<!-- https://mvnrepository.com/artifact/org.apache.maven/maven-plugin-api -->
+
+
 	<!-- master branch code cchanges -->
 	<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 	<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 	<!-- https://mvnrepository.com/artifact/org.testng/testng  -->
+
 
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
