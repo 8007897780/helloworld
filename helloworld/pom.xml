@@ -7,6 +7,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<!-- master branch code cchanges -->
+	<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+	<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+	<!-- https://mvnrepository.com/artifact/org.testng/testng  -->
 
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
